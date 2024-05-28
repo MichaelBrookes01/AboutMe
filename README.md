@@ -4,6 +4,7 @@
 -  I'm looking to work on any project to gain more knowledge around data and how to use it effectively. 
 -  Feel free to contact me by email at mikebrookes01@gmail.com.
 - ⚡ Fun fact: I like to re-read "The lord of the rings" at least once a year and re-watch it at least three times.
+  
   ![giphy](https://github.com/MichaelBrookes01/MichaelBrookes01/assets/171022043/9ebb2320-471a-430f-8722-35c7c8c3ae19)
 
 <!---
